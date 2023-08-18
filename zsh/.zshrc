@@ -73,6 +73,7 @@ ZSH_THEME="crcandy"
 plugins=(
   git
   adb
+  tmux
 )
 
 source $ZSH/oh-my-zsh.sh
